@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "61855372242",
+    "project_id": "lawoup-4b4f5",
+    "storage_bucket": "lawoup-4b4f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61855372242:android:eee26f7d3d86d05bf56e0b",
+        "android_client_info": {
+          "package_name": "com.example.lawaoup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61855372242-5krcavu489jcqhstqc04lf3kgth9najm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lawaoup",
+            "certificate_hash": "b7bddb54b4e31740c8ff618bd642d428afd10890"
+          }
+        },
+        {
+          "client_id": "61855372242-77k6aele7hlr82e652t2u275ofmvebuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn4fGWG8Isk7lY2T6nywwstGsFdxxmKXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61855372242-77k6aele7hlr82e652t2u275ofmvebuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
